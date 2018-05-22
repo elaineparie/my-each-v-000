@@ -13,6 +13,5 @@ def my_each(collection)
   end
 end
 
-def my_each(collection) do |i|
+my_each(collection) do |i|
 puts i
-end
